@@ -1,0 +1,5 @@
+# files not to be added to git
+
+# project files #
+node-modules
+coverage
